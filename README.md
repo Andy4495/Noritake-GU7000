@@ -1,6 +1,6 @@
 # Noritake GU7000 Vacuum Fluorescent Display (VFD) Library
 
-[![Check Markdown Links](https://github.com/Andy4495/Noritake-GU7000/actions/workflows/CheckMarkdownLinks.yml/badge.svg)](https://github.com/Andy4495/Noritake-GU7000/actions/workflows/CheckMarkdownLinks.yml)
+[![Check Markdown Links](https://github.com/Andy4495/Noritake-GU7000/actions/workflows/check-links.yml/badge.svg)](https://github.com/Andy4495/Noritake-GU7000/actions/workflows/check-links.yml)
 
 Noritake provides Arduino libraries for their displays; however, their [Terms of Use][3] do not allow re-publishing their Arduino libraries.
 
